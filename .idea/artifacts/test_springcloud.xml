@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="test-springcloud">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_springcloud</output-path>
+    <root id="root" />
+  </artifact>
+</component>
